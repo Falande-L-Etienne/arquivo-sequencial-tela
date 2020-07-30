@@ -1,0 +1,28 @@
+ACRE                     RIO BRANCO 
+ALAGOAS                  MACEIO 
+AMAPA                    MACAPA 
+AMAZONAS                 MANAUS 
+BAHIA                    SALVADOR 
+CEARA                    FORTALEZA 
+DISTRTO FEDERAL          BRASILIA 
+ESPIRITO SANTO           VITORIA 
+GOIAS                    GOIANA 
+MARANHAO                 SAO LUIS 
+MATO GROSSO              CUIABA 
+MATO GROSSO DO SUL       CAMPO GRANDE 
+MINAS GERAIS             BELO HORIZONTE 
+PARA                     BELEM 
+PARAIBA                  JOAO PESSOA 
+PARANA                   CURITIBA 
+PERNAMBUCO               RECIFE 
+PIAUI                    TEREZINA 
+RIO DE JANEIRO           RIO DE JANEIRO 
+RIO GRANDE DO NORTE      NATAL 
+RIO GRANDE DO SUL        PORTO ALEGRE 
+RONDONIA                 PORTO VELHO 
+RORAIMA                  BOA VISTA 
+SANTA CATARINA           FLORIANOPOLIS 
+SAO PAULO                SAO PAULO 
+SERGIPE                  ARACAJU
+TOCANTIS                 PALMAS 
+
